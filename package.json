@@ -1,5 +1,7 @@
 {
   "name": "@hobord/theia-firacode-plugin",
+  "displayName": "Firacode font",
+  "description": "Add firacode fonts to IDE", 
   "author": {
     "email": "balazs.szabo@gmail.com",
     "name": "Balazs Szabo"
@@ -9,12 +11,18 @@
     "type": "git",
     "url": "https://github.com/hobord/theia-firacode-plugin.git"
   },
-  "publisher": "theia",
+  "publisher": "hobord",
   "keywords": [
     "theia-plugin",
-    "firacode"
+    "firacode",
+    "VSCode"
   ],
-  "version": "0.0.2",
+  "categories": ["Themes"],
+  "galleryBanner": {
+    "color": "#272631",
+    "theme": "dark"
+  },
+  "version": "0.0.3",
   "license": "MIT",
   "files": [
     "src"
