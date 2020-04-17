@@ -1,2 +1,3 @@
 # theia-firacode
-theia-firacode Plugin example for Theia.
+Add firacode fonts to Theia IDE
+
