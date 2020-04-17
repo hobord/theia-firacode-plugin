@@ -1,5 +1,5 @@
 {
-  "name": "theia-firacode",
+  "name": "@hobord/theia-firacode-plugin",
   "author": {
     "email": "balazs.szabo@gmail.com",
     "name": "Balazs Szabo"
